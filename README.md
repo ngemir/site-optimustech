@@ -1,5 +1,5 @@
-# site-optimustech
- Site criado ao acompanhar o 7 days of code.
+# site optimustech
+ Site criado ao acompanhar o 7 days of code da formação HTML e CSS.
 
 ## Como acessar o site.
 Entre neste link [https://swaveng.github.io/site-optimustech/]
