@@ -3,7 +3,7 @@
     justify-content: space-between;
     color: var(--cinza);
     font-weight: 500;
-    padding: 0 10em;
+    padding: 0 7em;
 }
 
 .navbar__logo {
@@ -15,7 +15,7 @@
 .navbar__logo--texto {
     color: var(--preto-logo);
     font-size: 18px;
-    padding: 0.2em;
+    padding-left: 0.2em;
 }
 
 .navbar__menu {
@@ -34,7 +34,7 @@
 
 .navbar__menu--link {
     text-decoration: none;
-    padding: 0.5em 1.5em;
+    padding: 0.5em 1.2em;
     border-radius: 8px;
 }
 

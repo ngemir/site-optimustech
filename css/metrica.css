@@ -1,0 +1,29 @@
+.metrica {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    padding: 0 7em 6em 7em;
+}
+
+.metrica__dado {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.metrica__dado > * {
+    margin: 0;
+    padding: 0px 16px;
+}
+
+.metrica__dado--numero {
+    color: var(--vinho);
+    font-size: 60px;
+    font-weight: 600;
+    margin-bottom: 12px;
+}
+
+.metrica__dado--titulo {
+    font-size: 18px;
+    font-weight: 500;
+    margin: 8px 0;
+}
