@@ -1,0 +1,29 @@
+.comentario {
+    width: 100%;
+}
+
+.comentario__container {
+    width: 75%;
+    margin: 0 auto;
+    text-align: center;
+    background-color: var(--vermelho-fundo);
+    padding: 64px;
+    margin-bottom: 96px;
+}
+
+.comentario__categoria {
+    font-size: 14px;
+    font-weight: 600;
+    color: var(--vinho);
+}
+
+.comentario__nome {
+    font-weight: 500;
+}
+
+.comentario__texto {
+    font-size: 36px;
+    font-weight: 500;
+    color: var(--preto);
+    margin: 16px 0 32px 0;
+}

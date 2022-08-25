@@ -1,6 +1,9 @@
 @import url(css/navbar.css);
 @import url(css/cabecalho.css);
 @import url(css/metrica.css);
+@import url(css/vaga.css);
+@import url(css/comentario.css);
+@import url(css/rodape.css);
 
 :root {
     --vinho: #8E2424;
