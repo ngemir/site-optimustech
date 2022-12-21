@@ -4,7 +4,7 @@
 ![OptimusTech Preview](./img/preview.png)
 
 ## Link Relacionado
-### [🔗Acesso ao site](https://swaveng.github.io/site-optimustech/)
+### [🔗Acesso ao site](https://ngemir.github.io/site-optimustech/)
 ### [<img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" width="20px"> Figma](https://www.figma.com/file/mm3MLozvUDGhDRTxSLlGL5/7daysOfCode-HTML-CSS?node-id=0%3A9878)
 ## O que é 7 days of code da Alura?
 É um desafio que é feito para os alunos da Alura quando finaliza alguma formação. É feito um desafio nos 7 dias para concluir o objetivo definido para botar em prática o que foi ensinado durante o estudo da formação.
